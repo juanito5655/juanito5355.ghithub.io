@@ -1,0 +1,204 @@
+h1{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-size: 50px;
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: left;
+    font-size: 50px;
+}
+.titulo2{
+    color: rgb(252, 6, 6);
+}
+.botones{
+    background-color: aqua;
+    padding: 15px 20px;
+    border:blue 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius: 40px;
+    right: 1200px;
+    margin-top:250 ;
+position: absolute;
+}
+a{
+    font-style: normal;
+    text-decoration: none;
+}
+
+.botonR_B{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.logo{
+    background-image:url(loal.jpg)  ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+    
+   
+   
+
+    
+    
+    text-align: center;
+    
+    font-family: Arial;
+    font-size: 10px;
+    color: black;
+}
+.lala{
+    background-image:url(sola.webp) ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+
+    
+    
+}
+.logotipo{
+    margin-top: -400px;
+   width: 1300px;
+   height: 300px;
+    
+    
+}
+.plo{
+    background-image:url(plomeria-inicio.png) ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.elec{
+    background-image:url(elcop.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    color:  black;
+    text-align: right;
+}
+.MAN{
+    background-image:url(man.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.botons{
+    background-color: aqua;
+    padding: 15px 20px;
+    border:blue 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius: 40px;
+    position: absolute;
+    right: 1250px;
+    margin-top: 220px;
+}
+.botoles{
+    background-color: aqua;
+    padding: 15px 20px;
+    border:blue 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius: 40px;
+    right: 1227px;
+    margin-top: 150px;
+    position: absolute;
+}
+.botone{
+    background-color: aqua;
+    padding: 15px 20px;
+    border:blue 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius: 40px;
+    right: 1227px;
+    margin-top: 80px;
+    position: absolute;
+}
+span{
+    position: fixed;
+    left:450px ;
+    bottom:0px ;
+    font-size: 20px;
+    
+}
+.bon{
+    background-color: aqua;
+    padding: 15px 20px;
+    border:blue 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius: 40px;
+    right: 1200px;
+    margin-top: 290px;
+    position: absolute;
+}
+.bom{
+    background-color: aqua;
+    padding: 15px 20px;
+    border:blue 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius: 40px;
+    right: 1209px;
+    margin-top: 365px;
+    position: absolute;
+}
+.bo{
+    background-color: aqua;
+    padding: 15px 20px;
+    border:blue 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius: 40px;
+    right: 1187px;
+    margin-top: 430px;
+    position: absolute;
+}
+.GAS{
+    background-image:url(gas.jpg) ;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.imp{
+    background-image:url(imper.jpg)  ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.REMO{
+    background-image:url(re.jpg)  ;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pola{color: rgb(255, 255, 255);}
+.bE{
+    background-color: rgb(245, 209, 6);
+    padding: 20px 30px;
+    display: inline-block;
+    border:rgb(0, 0, 0) 4px solid ;
+    color:black;
+    font-weight: bold;
+    border-radius:50px  ;
+    right: 500px;
+    margin-top: 150px;
+    position: absolute;}
+    span{
+        color:black;
+    }
